@@ -1,0 +1,4992 @@
+{
+    "0": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Trapezoid.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Circle.",
+            "Triangle.",
+            "Not drawing at all."
+        ],
+        "answer": 0,
+        "key": "0209-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing trapezoid with bare hand"
+    },
+    "1": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Not drawing at all.",
+            "Diamond."
+        ],
+        "answer": 2,
+        "key": "0209-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing trapezoid with bare hand"
+    },
+    "2": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Left.",
+            "Left then Right.",
+            "Right then Left.",
+            "Right.",
+            "Not moving at all."
+        ],
+        "answer": 1,
+        "key": "0231-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand left then right with bare hand"
+    },
+    "3": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Diamond."
+        ],
+        "answer": 0,
+        "key": "0210-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing triangle with bare hand"
+    },
+    "4": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Circle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Triangle."
+        ],
+        "answer": 5,
+        "key": "0210-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing triangle with bare hand"
+    },
+    "5": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 0,
+        "key": "0211-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing square/rectangle with bare hand"
+    },
+    "6": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 0,
+        "key": "0211-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing square/rectangle with bare hand"
+    },
+    "7": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond.",
+            "Circle.",
+            "Not drawing at all.",
+            "Infinity-shape."
+        ],
+        "answer": 5,
+        "key": "0212-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing infinity-shape with bare hand"
+    },
+    "8": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Infinity-shape.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Circle.",
+            "Triangle."
+        ],
+        "answer": 0,
+        "key": "0212-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing infinity-shape with bare hand"
+    },
+    "9": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Square/rectangle."
+        ],
+        "answer": 1,
+        "key": "0213-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing diamond with bare hand"
+    },
+    "10": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Triangle.",
+            "Circle."
+        ],
+        "answer": 3,
+        "key": "0213-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing diamond with bare hand"
+    },
+    "11": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Not drawing at all.",
+            "Eight-shape."
+        ],
+        "answer": 5,
+        "key": "0214-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing eight-shape with bare hand"
+    },
+    "12": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Not drawing at all.",
+            "Eight-shape.",
+            "Trapezoid.",
+            "Circle.",
+            "Triangle."
+        ],
+        "answer": 2,
+        "key": "0214-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing eight-shape with bare hand"
+    },
+    "13": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up."
+        ],
+        "answer": 2,
+        "key": "0405-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand up with bare hand"
+    },
+    "14": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Right.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0406-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand left with bare hand"
+    },
+    "15": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left."
+        ],
+        "answer": 1,
+        "key": "0406-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand right with bare hand"
+    },
+    "16": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Up.",
+            "Not moving at all.",
+            "Moving Down."
+        ],
+        "answer": 2,
+        "key": "0405-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand down with bare hand"
+    },
+    "17": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Down and Left",
+            "Moving Up and Left.",
+            "Moving Up and Right.",
+            "Not moving at all.",
+            "Moving Down and Right."
+        ],
+        "answer": 0,
+        "key": "0251-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand down and left with bare hand"
+    },
+    "18": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Up and Left.",
+            "Moving Down and Right.",
+            "Not moving at all.",
+            "Moving Down and Left",
+            "Moving Up and Right."
+        ],
+        "answer": 4,
+        "key": "0410-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand up and right with bare hand"
+    },
+    "19": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up.",
+            "Moving Down."
+        ],
+        "answer": 1,
+        "key": "0411-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand up with bare hand"
+    },
+    "20": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Down.",
+            "Moving Up.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0412-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand down with bare hand"
+    },
+    "21": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle.",
+            "Triangle."
+        ],
+        "answer": 4,
+        "key": "0230-10",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing circle with bare hand"
+    },
+    "22": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Not drawing at all."
+        ],
+        "answer": 2,
+        "key": "0230-11",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason drawing circle with bare hand"
+    },
+    "23": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left then Right.",
+            "Moving Left.",
+            "Moving Right then Left"
+        ],
+        "answer": 2,
+        "key": "0403-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "24": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Right.",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Right then Left",
+            "Moving Left then Right."
+        ],
+        "answer": 1,
+        "key": "0403-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "25": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Right then Left",
+            "Moving Left then Right.",
+            "Moving Right.",
+            "Moving Left.",
+            "Not moving at all."
+        ],
+        "answer": 2,
+        "key": "0403-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "26": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Up then Down.",
+            "Moving Down.",
+            "Moving Up."
+        ],
+        "answer": 2,
+        "key": "0408-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "27": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Moving Up."
+        ],
+        "answer": 4,
+        "key": "0408-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "28": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Up.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Down."
+        ],
+        "answer": 4,
+        "key": "0408-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "29": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Right then Left",
+            "Moving Left.",
+            "Moving Right.",
+            "Not moving at all.",
+            "Moving Left then Right."
+        ],
+        "answer": 4,
+        "key": "0403-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "30": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Right.",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Right then Left"
+        ],
+        "answer": 1,
+        "key": "0403-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "31": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Left then Right.",
+            "Moving Right then Left",
+            "Moving Right.",
+            "Not moving at all."
+        ],
+        "answer": 3,
+        "key": "0403-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "32": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up."
+        ],
+        "answer": 1,
+        "key": "0408-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "33": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Up.",
+            "Moving Up then Down.",
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Down then Up"
+        ],
+        "answer": 0,
+        "key": "0408-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "34": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Up then Down.",
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Down.",
+            "Moving Up."
+        ],
+        "answer": 3,
+        "key": "0408-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "35": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Down.",
+            "Moving Up.",
+            "Moving Down then Up"
+        ],
+        "answer": 3,
+        "key": "0413-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "36": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Down."
+        ],
+        "answer": 4,
+        "key": "0413-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "37": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up.",
+            "Moving Up then Down.",
+            "Moving Down then Up"
+        ],
+        "answer": 2,
+        "key": "0413-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "38": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Up.",
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Moving Down.",
+            "Not moving at all."
+        ],
+        "answer": 3,
+        "key": "0413-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "39": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Up then Down.",
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Down.",
+            "Moving Up."
+        ],
+        "answer": 2,
+        "key": "0413-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "40": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Not moving at all.",
+            "Moving Down."
+        ],
+        "answer": 0,
+        "key": "0413-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "41": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left then Right.",
+            "Moving Right then Left"
+        ],
+        "answer": 4,
+        "key": "0518-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "42": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Right then Left",
+            "Not moving at all.",
+            "Moving Left.",
+            "Moving Right.",
+            "Moving Left then Right."
+        ],
+        "answer": 2,
+        "key": "0518-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "43": {
+        "question": "What was the general trend of the hand's movement in space?",
+        "options": [
+            "Moving Right then Left",
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Left.",
+            "Moving Right."
+        ],
+        "answer": 4,
+        "key": "0518-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "44": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Right.",
+            "Moving Right then Left",
+            "Moving Left."
+        ],
+        "answer": 3,
+        "key": "0518-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "45": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Right then Left",
+            "Moving Right.",
+            "Moving Left then Right.",
+            "Moving Left.",
+            "Not moving at all."
+        ],
+        "answer": 3,
+        "key": "0518-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "46": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Left.",
+            "Moving Right then Left",
+            "Moving Left then Right.",
+            "Not moving at all.",
+            "Moving Right."
+        ],
+        "answer": 4,
+        "key": "0518-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Eason moving hand with markerpen"
+    },
+    "47": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Down then Up"
+        ],
+        "answer": 4,
+        "key": "0595-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "48": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Up then Down.",
+            "Moving Down.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Not moving at all."
+        ],
+        "answer": 2,
+        "key": "0595-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "49": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Moving Down.",
+            "Not moving at all."
+        ],
+        "answer": 1,
+        "key": "0596-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "50": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Moving Down."
+        ],
+        "answer": 2,
+        "key": "0596-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "51": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up."
+        ],
+        "answer": 4,
+        "key": "0597-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "52": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Up then Down."
+        ],
+        "answer": 3,
+        "key": "0597-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "53": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Left then Right.",
+            "Not moving at all.",
+            "Moving Left.",
+            "Moving Right.",
+            "Moving Right then Left"
+        ],
+        "answer": 3,
+        "key": "0598-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "54": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Left then Right.",
+            "Moving Right then Left",
+            "Moving Right.",
+            "Not moving at all."
+        ],
+        "answer": 3,
+        "key": "0598-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Chuhan moving bare hand"
+    },
+    "55": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Trapezoid.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Circle."
+        ],
+        "answer": 5,
+        "key": "0617-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "56": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid."
+        ],
+        "answer": 4,
+        "key": "0617-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "57": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Not drawing at all.",
+            "Diamond.",
+            "Circle.",
+            "Triangle.",
+            "Trapezoid.",
+            "Square/rectangle."
+        ],
+        "answer": 2,
+        "key": "0617-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "58": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond.",
+            "Square/rectangle."
+        ],
+        "answer": 0,
+        "key": "0618-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "59": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Circle.",
+            "Triangle.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "key": "0618-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "60": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Trapezoid."
+        ],
+        "answer": 2,
+        "key": "0618-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "61": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Trapezoid.",
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Square/rectangle."
+        ],
+        "answer": 5,
+        "key": "0619-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "62": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Triangle.",
+            "Square/rectangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond."
+        ],
+        "answer": 1,
+        "key": "0619-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "63": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Trapezoid.",
+            "Diamond.",
+            "Circle.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "key": "0619-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "64": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Circle."
+        ],
+        "answer": 0,
+        "key": "0620-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "65": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Square/rectangle.",
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond."
+        ],
+        "answer": 1,
+        "key": "0620-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "66": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle.",
+            "Triangle.",
+            "Diamond.",
+            "Square/rectangle."
+        ],
+        "answer": 2,
+        "key": "0621-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "67": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Trapezoid.",
+            "Triangle.",
+            "Circle.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Not drawing at all."
+        ],
+        "answer": 2,
+        "key": "0621-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Chuhan drawing shapes"
+    },
+    "68": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Right.",
+            "Moving Right then Left",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Left then Right."
+        ],
+        "answer": 2,
+        "key": "0624-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "69": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Up then Down."
+        ],
+        "answer": 4,
+        "key": "0624-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "70": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Left then Right.",
+            "Moving Right then Left",
+            "Not moving at all.",
+            "Moving Right."
+        ],
+        "answer": 0,
+        "key": "0625-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "71": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Not moving at all.",
+            "Moving Down then Up"
+        ],
+        "answer": 4,
+        "key": "0625-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "72": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Right.",
+            "Moving Right then Left"
+        ],
+        "answer": 0,
+        "key": "0626-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "73": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Right then Left",
+            "Moving Right.",
+            "Moving Left then Right.",
+            "Not moving at all."
+        ],
+        "answer": 2,
+        "key": "0626-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "74": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Down then Up",
+            "Moving Up then Down.",
+            "Moving Up."
+        ],
+        "answer": 4,
+        "key": "0627-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "75": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Up then Down.",
+            "Moving Down.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Not moving at all."
+        ],
+        "answer": 1,
+        "key": "0628-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving bare hand"
+    },
+    "76": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Up then Down."
+        ],
+        "answer": 3,
+        "key": "0629-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "77": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Moving Up."
+        ],
+        "answer": 4,
+        "key": "0629-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "78": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Moving Down then Up",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0630-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "79": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Down.",
+            "Moving Up.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up then Down."
+        ],
+        "answer": 0,
+        "key": "0630-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "80": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up.",
+            "Moving Down then Up",
+            "Moving Up then Down."
+        ],
+        "answer": 4,
+        "key": "0631-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "81": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Up.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Down."
+        ],
+        "answer": 3,
+        "key": "0631-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "82": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Up then Down.",
+            "Moving Down."
+        ],
+        "answer": 1,
+        "key": "0632-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "83": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Up then Down."
+        ],
+        "answer": 2,
+        "key": "0632-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "human",
+        "note": "Ziyao moving hand with controller"
+    },
+    "84": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Circle.",
+            "Diamond.",
+            "Trapezoid."
+        ],
+        "answer": 0,
+        "key": "0649-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with controller"
+    },
+    "85": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Triangle."
+        ],
+        "answer": 4,
+        "key": "0649-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with controller"
+    },
+    "86": {
+        "question": "Which figure did the individual outline in space using their hand movements?",
+        "options": [
+            "Diamond.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 3,
+        "key": "0650-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with controller"
+    },
+    "87": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Square/rectangle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Circle.",
+            "Triangle."
+        ],
+        "answer": 4,
+        "key": "0650-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with controller"
+    },
+    "88": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Triangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Circle."
+        ],
+        "answer": 0,
+        "key": "0651-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with controller"
+    },
+    "89": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Not drawing at all.",
+            "Triangle.",
+            "Diamond.",
+            "Circle.",
+            "Trapezoid.",
+            "Square/rectangle."
+        ],
+        "answer": 1,
+        "key": "0651-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with controller"
+    },
+    "90": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Triangle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Circle."
+        ],
+        "answer": 0,
+        "key": "0666-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "91": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 4,
+        "key": "0666-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "92": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Diamond."
+        ],
+        "answer": 0,
+        "key": "0666-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "93": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 1,
+        "key": "0665-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "94": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Square/rectangle.",
+            "Triangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Circle."
+        ],
+        "answer": 5,
+        "key": "0665-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "95": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Trapezoid.",
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Diamond."
+        ],
+        "answer": 2,
+        "key": "0665-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "96": {
+        "question": "What type of shape was depicted by the person's hand motions?",
+        "options": [
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Circle.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Diamond."
+        ],
+        "answer": 0,
+        "key": "0667-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "97": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Triangle.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Diamond."
+        ],
+        "answer": 4,
+        "key": "0667-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "98": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Triangle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Circle."
+        ],
+        "answer": 0,
+        "key": "0667-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "99": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Infinity-shape.",
+            "Diamond.",
+            "Triangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle."
+        ],
+        "answer": 0,
+        "key": "0668-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "100": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Circle.",
+            "Triangle.",
+            "Eight-shape.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 2,
+        "key": "0669-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "101": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Right.",
+            "Moving Right then Left",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Left then Right."
+        ],
+        "answer": 0,
+        "key": "0670-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "102": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Up then Down.",
+            "Not moving at all.",
+            "Moving Up.",
+            "Moving Down.",
+            "Moving Down then Up"
+        ],
+        "answer": 0,
+        "key": "0671-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "103": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Right.",
+            "Moving Right then Left",
+            "Moving Left."
+        ],
+        "answer": 4,
+        "key": "0671-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "104": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Moving Down.",
+            "Moving Down then Up"
+        ],
+        "answer": 1,
+        "key": "0672-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "105": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Right then Left",
+            "Moving Right.",
+            "Moving Left then Right.",
+            "Not moving at all."
+        ],
+        "answer": 2,
+        "key": "0672-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "106": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Up.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Down."
+        ],
+        "answer": 1,
+        "key": "0673-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "107": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Left then Right.",
+            "Moving Right.",
+            "Not moving at all.",
+            "Moving Left.",
+            "Moving Right then Left"
+        ],
+        "answer": 3,
+        "key": "0673-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "108": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down then Up",
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Moving Up."
+        ],
+        "answer": 1,
+        "key": "0674-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "109": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Right then Left",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Right."
+        ],
+        "answer": 1,
+        "key": "0674-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "110": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Moving Down.",
+            "Moving Up.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0675-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "111": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Right then Left",
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left.",
+            "Moving Left then Right."
+        ],
+        "answer": 3,
+        "key": "0675-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "112": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Right.",
+            "Moving Left then Right.",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Right then Left"
+        ],
+        "answer": 2,
+        "key": "0676-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "113": {
+        "question": "What was the general trend observed in the hand's movement?",
+        "options": [
+            "Moving Up.",
+            "Moving Up then Down.",
+            "Moving Down then Up",
+            "Moving Down.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0677-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "114": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Up then Down.",
+            "Moving Up."
+        ],
+        "answer": 1,
+        "key": "0678-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao moving bare hand"
+    },
+    "115": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Trapezoid."
+        ],
+        "answer": 4,
+        "key": "0694-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "116": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Trapezoid.",
+            "Circle.",
+            "Triangle."
+        ],
+        "answer": 3,
+        "key": "0695-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "117": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Triangle.",
+            "Circle.",
+            "Diamond.",
+            "Square/rectangle."
+        ],
+        "answer": 5,
+        "key": "0696-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "118": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Square/rectangle."
+        ],
+        "answer": 0,
+        "key": "0697-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "119": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Circle.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 0,
+        "key": "0698-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "120": {
+        "question": "Which geometric pattern did the individual's hand movements describe in the air?",
+        "options": [
+            "Triangle.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Circle.",
+            "Not drawing at all."
+        ],
+        "answer": 3,
+        "key": "0694-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "121": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Circle.",
+            "Diamond."
+        ],
+        "answer": 0,
+        "key": "0695-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "122": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Trapezoid."
+        ],
+        "answer": 3,
+        "key": "0696-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "123": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Circle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Triangle."
+        ],
+        "answer": 5,
+        "key": "0697-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "124": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Triangle.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Circle.",
+            "Square/rectangle.",
+            "Trapezoid."
+        ],
+        "answer": 3,
+        "key": "0698-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Ziyao drawing shapes with bare hand"
+    },
+    "125": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Square/rectangle.",
+            "Triangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Diamond."
+        ],
+        "answer": 1,
+        "key": "0710-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "126": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Circle."
+        ],
+        "answer": 1,
+        "key": "0710-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "127": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Circle."
+        ],
+        "answer": 1,
+        "key": "0711-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "128": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Circle.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 1,
+        "key": "0711-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "129": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Circle.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Diamond.",
+            "Trapezoid.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "key": "0712-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "130": {
+        "question": "What kind of figure did the person's gestures draw in space?",
+        "options": [
+            "Square/rectangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Diamond."
+        ],
+        "answer": 2,
+        "key": "0712-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "131": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Circle.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond.",
+            "Triangle."
+        ],
+        "answer": 1,
+        "key": "0713-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "132": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Trapezoid.",
+            "Diamond.",
+            "Circle.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Triangle."
+        ],
+        "answer": 4,
+        "key": "0713-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "133": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Diamond.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Not drawing at all.",
+            "Circle."
+        ],
+        "answer": 2,
+        "key": "0714-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "134": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Diamond.",
+            "Square/rectangle.",
+            "Circle.",
+            "Triangle.",
+            "Trapezoid.",
+            "Not drawing at all."
+        ],
+        "answer": 1,
+        "key": "0714-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "135": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Circle.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Trapezoid.",
+            "Not drawing at all."
+        ],
+        "answer": 2,
+        "key": "0715-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "136": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond."
+        ],
+        "answer": 2,
+        "key": "0715-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "137": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Square/rectangle.",
+            "Circle.",
+            "Triangle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond."
+        ],
+        "answer": 0,
+        "key": "0716-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "138": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Diamond.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle."
+        ],
+        "answer": 2,
+        "key": "0716-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "139": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Circle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Infinity-shape.",
+            "Triangle.",
+            "Not drawing at all."
+        ],
+        "answer": 3,
+        "key": "0717-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "140": {
+        "question": "What shape did the hand draw?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Infinity-shape.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle."
+        ],
+        "answer": 2,
+        "key": "0717-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "141": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Triangle.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Circle."
+        ],
+        "answer": 4,
+        "key": "0718-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "142": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Trapezoid.",
+            "Circle.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Triangle."
+        ],
+        "answer": 4,
+        "key": "0718-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "143": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Square/rectangle.",
+            "Triangle.",
+            "Trapezoid.",
+            "Circle.",
+            "Not drawing at all.",
+            "Diamond."
+        ],
+        "answer": 3,
+        "key": "0719-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "144": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Circle.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "key": "0719-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "145": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Circle.",
+            "Diamond.",
+            "Square/rectangle."
+        ],
+        "answer": 3,
+        "key": "0720-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "146": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Diamond."
+        ],
+        "answer": 0,
+        "key": "0720-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "147": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Diamond.",
+            "Trapezoid.",
+            "Eight-shape.",
+            "Triangle.",
+            "Not drawing at all.",
+            "Square/rectangle."
+        ],
+        "answer": 2,
+        "key": "0721-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "148": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Trapezoid.",
+            "Triangle.",
+            "Eight-shape.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 2,
+        "key": "0721-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "149": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Eight-shape.",
+            "Triangle.",
+            "Diamond."
+        ],
+        "answer": 3,
+        "key": "0722-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "150": {
+        "question": "Which shape was outlined?",
+        "options": [
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Eight-shape.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 3,
+        "key": "0722-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "note": "Eason drawing shapes with bare hand"
+    },
+    "151": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Circle."
+        ],
+        "answer": 0,
+        "key": "0209-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "152": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Circle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Triangle."
+        ],
+        "answer": 1,
+        "key": "0209-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "153": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Right.",
+            "Right then Left.",
+            "Left then Right.",
+            "Not moving at all.",
+            "Left."
+        ],
+        "answer": 2,
+        "key": "0231-03",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "154": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Square/rectangle.",
+            "Circle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond."
+        ],
+        "answer": 4,
+        "key": "0210-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "155": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Diamond.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 4,
+        "key": "0210-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "156": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Circle.",
+            "Square/rectangle."
+        ],
+        "answer": 5,
+        "key": "0211-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "157": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Square/rectangle.",
+            "Triangle.",
+            "Circle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid."
+        ],
+        "answer": 0,
+        "key": "0211-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "158": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Circle.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Infinity-shape.",
+            "Triangle.",
+            "Not drawing at all."
+        ],
+        "answer": 3,
+        "key": "0212-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "159": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Infinity-shape.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Circle."
+        ],
+        "answer": 2,
+        "key": "0212-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "160": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Circle.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid."
+        ],
+        "answer": 3,
+        "key": "0213-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "161": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Circle.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "key": "0213-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "162": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Eight-shape.",
+            "Triangle.",
+            "Trapezoid.",
+            "Diamond."
+        ],
+        "answer": 2,
+        "key": "0214-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "163": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Not drawing at all.",
+            "Eight-shape.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Trapezoid.",
+            "Circle."
+        ],
+        "answer": 1,
+        "key": "0214-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "164": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Down.",
+            "Moving Up.",
+            "Not moving at all."
+        ],
+        "answer": 1,
+        "key": "0405-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "165": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left."
+        ],
+        "answer": 2,
+        "key": "0406-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "166": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Right."
+        ],
+        "answer": 2,
+        "key": "0406-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "167": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Up.",
+            "Not moving at all.",
+            "Moving Down."
+        ],
+        "answer": 2,
+        "key": "0405-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "168": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Down and Left",
+            "Not moving at all.",
+            "Moving Down and Right.",
+            "Moving Up and Right.",
+            "Moving Up and Left."
+        ],
+        "answer": 0,
+        "key": "0251-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "169": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up and Right.",
+            "Moving Up and Left.",
+            "Moving Down and Right.",
+            "Moving Down and Left"
+        ],
+        "answer": 1,
+        "key": "0410-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "170": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Up.",
+            "Moving Down.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0411-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "171": {
+        "question": "How would you characterize the trend of the person's hand gesture?",
+        "options": [
+            "Moving Down.",
+            "Moving Up.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0412-00",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "172": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Triangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle.",
+            "Diamond.",
+            "Square/rectangle."
+        ],
+        "answer": 3,
+        "key": "0230-01",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "173": {
+        "question": "Which shape was formed by the person's hand as they moved it through the air?",
+        "options": [
+            "Triangle.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle."
+        ],
+        "answer": 5,
+        "key": "0230-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "demonstration_type": "human",
+        "note": "hunam;bare hand",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        }
+    },
+    "174": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Circle.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Not drawing at all."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0925-00"
+    },
+    "175": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Circle.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0926-00"
+    },
+    "176": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Diamond.",
+            "Circle."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0927-00"
+    },
+    "177": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Triangle.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Diamond.",
+            "Circle.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0928-00"
+    },
+    "178": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Circle.",
+            "Triangle.",
+            "Diamond.",
+            "Trapezoid."
+        ],
+        "answer": 4,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0929-00"
+    },
+    "179": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Triangle.",
+            "Circle.",
+            "Eight-shape.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Square/rectangle."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0930-00"
+    },
+    "180": {
+        "question": "What shape is formed by the black circle's trajectory as it moves?",
+        "options": [
+            "Circle.",
+            "Infinity-shape.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0931-00"
+    },
+    "181": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Diamond.",
+            "Circle.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0932-00"
+    },
+    "182": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Circle.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Trapezoid."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0933-00"
+    },
+    "183": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Not drawing at all.",
+            "Diamond.",
+            "Circle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 5,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0934-00"
+    },
+    "184": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Triangle."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0938-00"
+    },
+    "185": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Diamond.",
+            "Square/rectangle.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Triangle.",
+            "Circle."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0935-00"
+    },
+    "186": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Triangle.",
+            "Infinity-shape.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Diamond."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0936-00"
+    },
+    "187": {
+        "question": "What shape is formed by the yellow star's trajectory as it moves?",
+        "options": [
+            "Diamond.",
+            "Not drawing at all.",
+            "Triangle.",
+            "Square/rectangle.",
+            "Eight-shape.",
+            "Circle."
+        ],
+        "answer": 4,
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "",
+        "key": "0937-00"
+    },
+    "188": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Circle.",
+            "Not drawing at all.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Trapezoid."
+        ],
+        "answer": 5,
+        "key": "0209-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing trapezoid with bare hand"
+    },
+    "189": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Triangle.",
+            "Diamond.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle."
+        ],
+        "answer": 3,
+        "key": "0209-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing trapezoid with bare hand"
+    },
+    "190": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Right then Left.",
+            "Left then Right.",
+            "Right.",
+            "Left."
+        ],
+        "answer": 2,
+        "key": "0231-11",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand left then right with bare hand"
+    },
+    "191": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Circle.",
+            "Square/rectangle.",
+            "Triangle."
+        ],
+        "answer": 5,
+        "key": "0210-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing triangle with bare hand"
+    },
+    "192": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Circle.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Trapezoid.",
+            "Triangle.",
+            "Square/rectangle."
+        ],
+        "answer": 4,
+        "key": "0210-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing triangle with bare hand"
+    },
+    "193": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Trapezoid.",
+            "Circle.",
+            "Not drawing at all.",
+            "Infinity-shape."
+        ],
+        "answer": 5,
+        "key": "0212-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing infinity-shape with bare hand"
+    },
+    "194": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Trapezoid.",
+            "Infinity-shape.",
+            "Diamond.",
+            "Triangle.",
+            "Circle.",
+            "Not drawing at all."
+        ],
+        "answer": 1,
+        "key": "0212-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing infinity-shape with bare hand"
+    },
+    "195": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Not drawing at all.",
+            "Square/rectangle.",
+            "Trapezoid.",
+            "Triangle.",
+            "Diamond.",
+            "Circle."
+        ],
+        "answer": 4,
+        "key": "0213-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing diamond with bare hand"
+    },
+    "196": {
+        "question": "What is the shape of the object that the person drew in the air?",
+        "options": [
+            "Trapezoid.",
+            "Not drawing at all.",
+            "Circle.",
+            "Square/rectangle.",
+            "Triangle.",
+            "Diamond."
+        ],
+        "answer": 5,
+        "key": "0213-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing diamond with bare hand"
+    },
+    "197": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Triangle.",
+            "Not drawing at all.",
+            "Circle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Eight-shape."
+        ],
+        "answer": 5,
+        "key": "0214-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing eight-shape with bare hand"
+    },
+    "198": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Triangle.",
+            "Eight-shape.",
+            "Circle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all."
+        ],
+        "answer": 1,
+        "key": "0214-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing eight-shape with bare hand"
+    },
+    "199": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up.",
+            "Moving Down."
+        ],
+        "answer": 1,
+        "key": "0405-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand up with bare hand"
+    },
+    "200": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Left.",
+            "Moving Right.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0406-04",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand left with bare hand"
+    },
+    "201": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left."
+        ],
+        "answer": 1,
+        "key": "0406-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand right with bare hand"
+    },
+    "202": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Up.",
+            "Moving Down.",
+            "Not moving at all."
+        ],
+        "answer": 1,
+        "key": "0405-05",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand down with bare hand"
+    },
+    "203": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Down and Right.",
+            "Moving Up and Left.",
+            "Moving Down and Left",
+            "Moving Up and Right.",
+            "Not moving at all."
+        ],
+        "answer": 2,
+        "key": "0251-06",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand down and left with bare hand"
+    },
+    "204": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Moving Up and Left.",
+            "Moving Down and Left",
+            "Not moving at all.",
+            "Moving Up and Right.",
+            "Moving Down and Right."
+        ],
+        "answer": 3,
+        "key": "0410-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand up and right with bare hand"
+    },
+    "205": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up.",
+            "Moving Down."
+        ],
+        "answer": 1,
+        "key": "0411-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand up with bare hand"
+    },
+    "206": {
+        "question": "What is the trend of the person's hand movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up."
+        ],
+        "answer": 1,
+        "key": "0412-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand down with bare hand"
+    },
+    "207": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Triangle.",
+            "Trapezoid.",
+            "Diamond.",
+            "Not drawing at all.",
+            "Circle.",
+            "Square/rectangle."
+        ],
+        "answer": 4,
+        "key": "0230-19",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing circle with bare hand"
+    },
+    "208": {
+        "question": "What geometric shape did the person trace in the air with their hand?",
+        "options": [
+            "Diamond.",
+            "Triangle.",
+            "Trapezoid.",
+            "Square/rectangle.",
+            "Circle.",
+            "Not drawing at all."
+        ],
+        "answer": 4,
+        "key": "0230-20",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason drawing circle with bare hand"
+    },
+    "209": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Right then Left",
+            "Moving Left then Right.",
+            "Moving Left.",
+            "Moving Right.",
+            "Not moving at all."
+        ],
+        "answer": 1,
+        "key": "0403-06",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand with markerpen"
+    },
+    "210": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Not moving at all.",
+            "Moving Left then Right.",
+            "Moving Left.",
+            "Moving Right then Left",
+            "Moving Right."
+        ],
+        "answer": 2,
+        "key": "0403-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand with markerpen"
+    },
+    "211": {
+        "question": "What was the overall direction of the hand's movement?",
+        "options": [
+            "Moving Right.",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Right then Left",
+            "Moving Left then Right."
+        ],
+        "answer": 0,
+        "key": "0403-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand with markerpen"
+    },
+    "212": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Right then Left",
+            "Moving Left.",
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left then Right."
+        ],
+        "answer": 0,
+        "key": "0518-06",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand with markerpen"
+    },
+    "213": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Left then Right.",
+            "Not moving at all.",
+            "Moving Right.",
+            "Moving Left.",
+            "Moving Right then Left"
+        ],
+        "answer": 3,
+        "key": "0518-07",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand with markerpen"
+    },
+    "214": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Left.",
+            "Moving Left then Right.",
+            "Not moving at all.",
+            "Moving Right then Left",
+            "Moving Right."
+        ],
+        "answer": 4,
+        "key": "0518-08",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Eason moving hand with markerpen"
+    },
+    "215": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Not moving at all.",
+            "Moving Down."
+        ],
+        "answer": 0,
+        "key": "0595-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Chuhan moving bare hand"
+    },
+    "216": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Not moving at all.",
+            "Moving Up.",
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Moving Down then Up"
+        ],
+        "answer": 3,
+        "key": "0596-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Chuhan moving bare hand"
+    },
+    "217": {
+        "question": "What trend did the person's hand movement follow?",
+        "options": [
+            "Moving Up.",
+            "Moving Down.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Up then Down."
+        ],
+        "answer": 0,
+        "key": "0597-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Chuhan moving bare hand"
+    },
+    "218": {
+        "question": "What was the overall trend in the person's hand movement?",
+        "options": [
+            "Moving Right.",
+            "Moving Right then Left",
+            "Moving Left.",
+            "Moving Left then Right.",
+            "Not moving at all."
+        ],
+        "answer": 0,
+        "key": "0598-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Chuhan moving bare hand"
+    },
+    "219": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Up.",
+            "Moving Down then Up",
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Up then Down."
+        ],
+        "answer": 0,
+        "key": "0629-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Ziyao moving hand with controller"
+    },
+    "220": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Down.",
+            "Moving Up then Down.",
+            "Not moving at all.",
+            "Moving Up."
+        ],
+        "answer": 1,
+        "key": "0630-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Ziyao moving hand with controller"
+    },
+    "221": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Down then Up",
+            "Moving Up.",
+            "Moving Down.",
+            "Not moving at all.",
+            "Moving Up then Down."
+        ],
+        "answer": 4,
+        "key": "0631-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Ziyao moving hand with controller"
+    },
+    "222": {
+        "question": "How would you describe the trend of the hand's motion?",
+        "options": [
+            "Moving Up then Down.",
+            "Moving Up.",
+            "Not moving at all.",
+            "Moving Down.",
+            "Moving Down then Up"
+        ],
+        "answer": 4,
+        "key": "0632-02",
+        "video_source_url": "",
+        "motion_type": "shape&trend",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 1,
+            "zoom": 1,
+            "first_person": 0
+        },
+        "demonstration_type": "simulated",
+        "note": "synthetic human; Ziyao moving hand with controller"
+    }
+}

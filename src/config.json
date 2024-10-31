@@ -1,0 +1,84 @@
+{
+    "models": {
+        "gemini": [
+            "gemini-1.5-flash",
+            "gemini-1.5-pro"
+        ],
+        "gpt": [
+            "gpt-4-turbo",
+            "gpt-4o",
+            "gpt-4o-mini"
+        ],
+        "claude": [
+            "claude-3-haiku-20240307",
+            "claude-3-sonnet-20240229",
+            "claude-3-opus-20240229",
+            "claude-3-5-sonnet-20240620"
+        ],
+        "reka": [
+            "reka-core-20240501",
+            "reka-flash-20240226",
+            "reka-edge-20240208"
+        ],
+        "internvl": [
+            "InternVL2-8B",
+            "InternVL2-40B",
+            "InternVL2-26B",
+            "InternVL2-Llama3-76B",
+            "InternVL2-Llama3-76B-8bit"
+        ],
+        "vila": [
+            "VILA1.5-40B",
+            "VILA1.5-13B"
+        ],
+        "video_ccam": [
+            "Video-CCAM-14B-v1.1",
+            "Video-CCAM-9B-v1.1",
+            "Video-CCAM-4B-v1.1"
+        ],
+        "llava_next": [
+            "LLaVA-NeXT-Video-32B-Qwen",
+            "llava-onevision-qwen2-72b-ov",
+            "llava-onevision-qwen2-7b-ov"
+        ],
+        "internvideo": [
+            "InternVideo2-Chat-8B"
+        ],
+        "phi": [
+            "Phi-3.5-vision-instruct"
+        ],
+        "video_llava": [
+            "Video-LLaVA-7B"
+        ],
+        "qwen": [
+            "Qwen2-VL-7B-Instruct",
+            "Qwen2-VL-72B-Instruct-AWQ"
+        ],
+        "video_llama": [
+            "VideoLLaMA2-8x7B",
+            "VideoLLaMA2-7B",
+            "VideoLLaMA2-72B"
+        ]
+    },
+    "video_models": [
+        "Video-LLaVA-7B",
+        "gemini-1.5-flash",
+        "gemini-1.5-pro",
+        "reka-core-20240501",
+        "reka-flash-20240226",
+        "reka-edge-20240208"
+    ],
+    "reasoning_types": [
+        "count",
+        "direction",
+        "rotation",
+        "shape&trend",
+        "velocity&frequency",
+        "visual_cues"
+    ],
+    "demonstration_types": [
+        "human",
+        "object",
+        "simulated"
+    ]
+}

@@ -1,0 +1,1476 @@
+{
+    "0": {
+        "question": "Which musical instrument sounds last?",
+        "options": [
+            "Cello.",
+            "None of them produces any sound.",
+            "Flute.",
+            "Violin.",
+            "All instruments sound at the same time."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0731-00"
+    },
+    "1": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously.",
+            "Violin.",
+            "Piano."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0732-00"
+    },
+    "2": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Guzheng.",
+            "Both instruments begin simultaneously.",
+            "Erhu."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0733-00"
+    },
+    "3": {
+        "question": "Which instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Banjo.",
+            "Violin.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0734-00"
+    },
+    "4": {
+        "question": "Which Guzheng plays first?",
+        "options": [
+            "The right one.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "The left one."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0735-00"
+    },
+    "5": {
+        "question": "Which ukulele plays the final note?",
+        "options": [
+            "The left one.",
+            "Both instruments begin simultaneously.",
+            "The right one.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0736-00"
+    },
+    "6": {
+        "question": "Which musical instrument is the second sounding instrument?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Guitar.",
+            "Trumpet.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0737-00"
+    },
+    "7": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Pipa.",
+            "Erhu.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0738-00"
+    },
+    "8": {
+        "question": "Which ukulele plays the last note?",
+        "options": [
+            "The middle one.",
+            "The right one.",
+            "All instruments sound at the same time.",
+            "None of them produces any sound.",
+            "The left one."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0739-00"
+    },
+    "9": {
+        "question": "Which musical instrument is the second sounding instrument?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Flute.",
+            "Both instruments begin simultaneously.",
+            "Violin."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0740-00"
+    },
+    "10": {
+        "question": "Which musical instrument is the second sounding instrument?",
+        "options": [
+            "Cello.",
+            "Neither instrument produces any sound.",
+            "Piano.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0741-00"
+    },
+    "11": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Ukulele.",
+            "Guitar."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0742-00"
+    },
+    "12": {
+        "question": "Which musical instrument finishes the song?",
+        "options": [
+            "Ukulele.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Clarinet."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0743-00"
+    },
+    "13": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Piano.",
+            "Violin.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0744-00"
+    },
+    "14": {
+        "question": "Which musical instrument finishes the song?",
+        "options": [
+            "None of them produces any sound.",
+            "Cello on the middle.",
+            "All instruments sound at the same time.",
+            "Violin on the left.",
+            "Violin on the right."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0745-00"
+    },
+    "15": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Violin on the right.",
+            "Violin on the left.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0746-00"
+    },
+    "16": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Cello.",
+            "Neither instrument produces any sound.",
+            "Guitar."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0747-00"
+    },
+    "17": {
+        "question": "Who makes the first sound?",
+        "options": [
+            "The right one.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "The left one."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0748-00"
+    },
+    "18": {
+        "question": "Which guitar is the first sounding instrument?",
+        "options": [
+            "All guitars sound at the same time.",
+            "The left one.",
+            "The right one.",
+            "The middle one.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0749-00"
+    },
+    "19": {
+        "question": "Which guitar is the first sounding instrument?",
+        "options": [
+            "The left one.",
+            "Neither instrument produces any sound.",
+            "Both guitars sound at the same time.",
+            "The right one."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0750-00"
+    },
+    "20": {
+        "question": "Which ukulele instrument is the first sounding instrument?",
+        "options": [
+            "The right one.",
+            "Both ukuleles sound at the same time.",
+            "Neither instrument produces any sound.",
+            "The left one."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0751-00"
+    },
+    "21": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Flute.",
+            "Vibraphone.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0752-00"
+    },
+    "22": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Piano.",
+            "Neither instrument produces any sound.",
+            "Violin.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0753-00"
+    },
+    "23": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Banjo.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Violin."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0754-00"
+    },
+    "24": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Saxophone.",
+            "Both instruments begin simultaneously.",
+            "Drum set."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0755-00"
+    },
+    "25": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Guitar.",
+            "Neither instrument produces any sound.",
+            "Pipa.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0756-00"
+    },
+    "26": {
+        "question": "Which violin is the first sounding instrument?",
+        "options": [
+            "Both violins sound at the same time.",
+            "The right one.",
+            "Neither instrument produces any sound.",
+            "The left one."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0757-00"
+    },
+    "27": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Marimba.",
+            "Ukulele.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0758-00"
+    },
+    "28": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Cello.",
+            "Violin.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0759-00"
+    },
+    "29": {
+        "question": "Which instrument is the last to stop playing?",
+        "options": [
+            "Ukulele.",
+            "Both instruments end at the same time.",
+            "Neither instrument produces any sound.",
+            "Flute."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0760-00"
+    },
+    "30": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Guitar.",
+            "Both instruments begin simultaneously.",
+            "Clarinet.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0761-00"
+    },
+    "31": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Flute.",
+            "Ukulele.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0762-00"
+    },
+    "32": {
+        "question": "Which violin is the first sounding instrument?",
+        "options": [
+            "Both violins sound at the same time.",
+            "Neither instrument produces any sound.",
+            "The right one.",
+            "The left one."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0763-00"
+    },
+    "33": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Flute.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Violin."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0764-00"
+    },
+    "34": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Trumpet.",
+            "Ukulele.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0765-00"
+    },
+    "35": {
+        "question": "Which ukulele is the first ending instrument?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Both ukuleles sound at the same time.",
+            "The right one.",
+            "The left one."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0766-00"
+    },
+    "36": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously.",
+            "Flute.",
+            "Piano."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0767-00"
+    },
+    "37": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Clarinet.",
+            "Accordion.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0768-00"
+    },
+    "38": {
+        "question": "Which violin is the first sounding instrument?",
+        "options": [
+            "Both violins sound at the same time.",
+            "The right one.",
+            "The left one.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0769-00"
+    },
+    "39": {
+        "question": "Which pipa is the first sounding instrument?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "The left one.",
+            "The right one.",
+            "Both pipas sound at the same time."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0770-00"
+    },
+    "40": {
+        "question": "Which violin is the first sounding instrument?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously.",
+            "The right one.",
+            "The left one."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0771-00"
+    },
+    "41": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Violin.",
+            "Cello."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0772-00"
+    },
+    "42": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously.",
+            "Piano.",
+            "Violin."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0773-00"
+    },
+    "43": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Guitar.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Clarinet."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0774-00"
+    },
+    "44": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Violin.",
+            "Soprano saxophone.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0775-00"
+    },
+    "45": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Guitar.",
+            "Soprano saxophone."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0776-00"
+    },
+    "46": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Soprano saxophone.",
+            "Neither instrument produces any sound.",
+            "Guitar."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0777-00"
+    },
+    "47": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Violin.",
+            "Both instruments begin simultaneously.",
+            "Flute.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0778-00"
+    },
+    "48": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Pipa.",
+            "Erhu.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0779-00"
+    },
+    "49": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Flute.",
+            "Keyboard.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0780-00"
+    },
+    "50": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Flute.",
+            "Both instruments begin simultaneously.",
+            "Violin.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0781-00"
+    },
+    "51": {
+        "question": "Which ukulele is the first sounding instrument?",
+        "options": [
+            "The left one.",
+            "Both ukuleles sound at the same time.",
+            "The right one.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0782-00"
+    },
+    "52": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Keyboard.",
+            "Neither instrument produces any sound.",
+            "Flute."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0783-00"
+    },
+    "53": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously.",
+            "Guitar.",
+            "Ukulele."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0784-00"
+    },
+    "54": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Erhu.",
+            "Both instruments begin simultaneously.",
+            "Guzheng.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0785-00"
+    },
+    "55": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Piano.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Violin."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0786-00"
+    },
+    "56": {
+        "question": "Which ukulele is the first sounding instrument?",
+        "options": [
+            "Both ukuleles sound at the same time.",
+            "Neither instrument produces any sound.",
+            "The right one.",
+            "The left one."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0787-00"
+    },
+    "57": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Violin.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Cello."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0788-00"
+    },
+    "58": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Violin.",
+            "Neither instrument produces any sound.",
+            "Guitar."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0789-00"
+    },
+    "59": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Neither instrument produces any sound.",
+            "Piano.",
+            "Both instruments begin simultaneously.",
+            "Violin."
+        ],
+        "answer": 2,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0790-00"
+    },
+    "60": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Ukulele.",
+            "Flute.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0791-00"
+    },
+    "61": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Guzheng.",
+            "Both instruments begin simultaneously.",
+            "Pipa.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0792-00"
+    },
+    "62": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Accordion.",
+            "Flute.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0793-00"
+    },
+    "63": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Guzheng.",
+            "Accordion."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0794-00"
+    },
+    "64": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Ukulele.",
+            "Both instruments begin simultaneously.",
+            "Flute.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0795-00"
+    },
+    "65": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Clarinet.",
+            "Both instruments begin simultaneously.",
+            "Guitar.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0796-00"
+    },
+    "66": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Violin.",
+            "Both instruments begin simultaneously.",
+            "Neither instrument produces any sound.",
+            "Clarinet."
+        ],
+        "answer": 1,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0797-00"
+    },
+    "67": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Piano.",
+            "Guzheng.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0798-00"
+    },
+    "68": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Both instruments begin simultaneously.",
+            "Cello.",
+            "Violin.",
+            "Neither instrument produces any sound."
+        ],
+        "answer": 0,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0799-00"
+    },
+    "69": {
+        "question": "Which musical instrument plays first?",
+        "options": [
+            "Accordion.",
+            "Saxophone.",
+            "Neither instrument produces any sound.",
+            "Both instruments begin simultaneously."
+        ],
+        "answer": 3,
+        "video_source_url": "",
+        "motion_type": "visual cues",
+        "variation": {
+            "counterfactual": 0,
+            "composite": 0,
+            "zoom": 0,
+            "first_person": 0
+        },
+        "demonstration_type": "object",
+        "note": "",
+        "key": "0800-00"
+    }
+}
