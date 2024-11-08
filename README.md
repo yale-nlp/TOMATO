@@ -10,7 +10,7 @@ This repository contains the implementation of the following paper:
 [Yuxuan Ding](https://scholar.google.com/citations?user=jdsf4z4AAAAJ)<sup>1</sup>,&nbsp;
 [Yanan Zheng](https://scholar.google.com/citations?user=0DqJ8eIAAAAJ)<sup>1</sup>,&nbsp;
 [Yilun Zhao](https://yilunzhao.github.io/)<sup>1</sup>,&nbsp;
-[Tesca Fizgerald](https://www.tescafitzgerald.com/)<sup>1</sup>,&nbsp;
+[Tesca Fitzgerald](https://www.tescafitzgerald.com/)<sup>1</sup>,&nbsp;
 [Arman Cohan](https://armancohan.com/)<sup>1</sup><sup>2</sup> <br>
 >*Equal contribution. <br>
 ><sup>1</sup>Yale University &nbsp;<sup>2</sup>Allen Institute of AI <sup>
@@ -23,7 +23,7 @@ This repository contains the implementation of the following paper:
 
 Our study of existing benchmarks shows that visual temporal reasoning capabilities of Multimodal Foundation Models (MFMs) are likely overestimated as many questions can be solved by using a single, few, or out-of-order frames. To systematically examine current visual temporal reasoning tasks, we propose three principles with corresponding metrics: (1) *Multi-Frame Gain*, (2) *Frame Order Sensitivity*, and (3) *Frame Information Disparity*. 
 
-Following these principles, we introduce TOMATO, a novel benchmark crafted to rigorously assess MFMs' temporal reasoning capabilities in video understanding. TOMATO comprises 1,484 carefully curated, human-annotated questions spanning 6 tasks (i.e. *action count*, *direction*, *rotation*, *shape&trend*, *velocity&frequency*, and *visual cues*), applied to 1,417 videos, including 805 self-recorded and -generated videos, that encompass 3 video scenarios (i.e. *human-centric*, *real-world*, and *simulated*). In the 805 self-created videos, we apply editting to incorporate *counterfactual scenes*, *composite motions*, and *zoomed-in* views, aiming to investigate the impact of these characteristics on the performance of MFMs.
+Following these principles, we introduce TOMATO, a novel benchmark crafted to rigorously assess MFMs' temporal reasoning capabilities in video understanding. TOMATO comprises 1,484 carefully curated, human-annotated questions spanning 6 tasks (i.e. *action count*, *direction*, *rotation*, *shape&trend*, *velocity&frequency*, and *visual cues*), applied to 1,417 videos, including 805 self-recorded and -generated videos, that encompass 3 video scenarios (i.e. *human-centric*, *real-world*, and *simulated*). In the 805 self-created videos, we apply editing to incorporate *counterfactual scenes*, *composite motions*, and *zoomed-in* views, aiming to investigate the impact of these characteristics on the performance of MFMs.
 
 ### Task Examples
 
