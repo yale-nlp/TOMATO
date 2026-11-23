@@ -19,7 +19,7 @@ def validate_choices(input_value, all_choices, input_name):
         return selected_values
 
 
-def main(model_name: str, model_families: dict, queries: dict, total_frames: int, shuffle: bool = False) -> None:
+def main(model_name: str, model_families: dict, queries: dict, total_frames: int) -> None:
     for family, model_list in model_families.items():
         if model_name in model_list:
 
@@ -33,8 +33,7 @@ def main(model_name: str, model_families: dict, queries: dict, total_frames: int
                     model_name=model_name, 
                     queries=qas, 
                     total_frames=total_frames, 
-                    output_dir=output_dir,
-                    shuffle=shuffle
+                    output_dir=output_dir
                 )
             return
     
