@@ -34,7 +34,7 @@ def main():
     for parsed_result_file in parsed_result_files:
 
         split_file_path = parsed_result_file.split(os.sep)
-        reason_type, demo_type = re.match(r"shuffle_(.*)\+(.*)", split_file_path[1]).groups()
+        reason_type, demo_type = re.match(r"(?:shuffle_)?(.*)\+(.*)", split_file_path[1]).groups()
         num_frame = split_file_path[2]
         model = split_file_path[3].rsplit('.', 1)[0]
         score, count = get_score(parsed_result_file)
